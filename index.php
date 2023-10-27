@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Ini mencoba git remote dengan membuat repo local baru di push ke repo server</h1>
+    <p>Ini commit ke 2</p>
 </body>
 </html>
